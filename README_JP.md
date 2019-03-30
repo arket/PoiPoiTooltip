@@ -2,6 +2,8 @@
 
 PoiPoiTooltip は簡易ツールチップアセットです。  
 ツールチップのデザインは自由にカスタマイズする事ができます。 ( RectTransformのみ)  
+全部で10種類のアニメーションがあります。
+
 アセットを使用するにはDOTweenが必要です。
 
 ## Animations
@@ -18,7 +20,7 @@ PoiPoiTooltip は簡易ツールチップアセットです。
 
 ## Install
 1. プロジェクトに[DOTween](http://dotween.demigiant.com/)をインポートします。
-2. PoiPoiTooltip.unitypackage を [latest releases](/PoiPoiTooltip/releases/)からインポートします。
+2. PoiPoiTooltip.unitypackage を [latest releases](/releases/)からインポートします。
 
 ## 使い方
 

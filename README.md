@@ -2,9 +2,11 @@
 
 PoiPoiTooltip is a simple tooltip asset.  
 Tooltip design is freely customizable. (Only RectTransform)  
+There are 10 types of animations.
+
 This asset requires DOTween.
 
-[Japanese Readme](/PoiPoiTooltip/blob/master/README_JP.md)
+[日本語 Readme](/README_JP.md)
 
 ## Animations
 - TO_TOP
@@ -20,7 +22,7 @@ This asset requires DOTween.
 
 ## Install
 1. Import [DOTween](http://dotween.demigiant.com/) into your project.
-2. Import PoiPoiTooltip.unitypackage from [latest releases](/PoiPoiTooltip/releases/).
+2. Import PoiPoiTooltip.unitypackage from [latest releases](/releases/).
 
 ## Usage
 
